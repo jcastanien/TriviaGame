@@ -1,0 +1,78 @@
+#container{
+	text-align: center;
+}
+
+.openclass{
+	font-family: 'Montserrat', sans-serif;
+	padding: 5px;
+	padding-bottom: 5px;
+	padding-top: 30px;
+}
+
+.divclass{
+	font-family: 'Montserrat', sans-serif;
+	padding: 5px;
+}
+
+#display {
+	font-family: 'Sarpanch', sans-serif;
+	font-size: 35px;
+}
+
+h1{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 40px;
+}
+
+#startbutton {
+  background: #ababab;
+  background-image: -webkit-linear-gradient(top, #ababab, #afb3b5);
+  background-image: -moz-linear-gradient(top, #ababab, #afb3b5);
+  background-image: -ms-linear-gradient(top, #ababab, #afb3b5);
+  background-image: -o-linear-gradient(top, #ababab, #afb3b5);
+  background-image: linear-gradient(to bottom, #ababab, #afb3b5);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+#startbutton:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+.questionclass{
+	font-family: 'Montserrat', sans-serif;
+	padding: 5px;
+	padding-top: 200px;
+	font-size: 30px;
+}
+
+.howdidyoudo{
+	font-family: 'Montserrat', sans-serif;
+	padding: 5px;
+	font-size: 30px;
+}
+
+.correct{
+	font-family: 'Montserrat', sans-serif;
+	padding: 5px;
+	font-size: 30px;
+}
+
+.incorrect{
+	font-family: 'Montserrat', sans-serif;
+	padding: 5px;
+	color: red;
+	font-size: 30px;
+}
